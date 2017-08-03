@@ -1,1 +1,34 @@
-
+{
+    "quotes": [
+        {
+        "quote":"Everything is funny, as long as it's happening to somebody else.",
+        "source":"Will Rogers"
+        },
+        {
+        "quote":"To succeed in life, you need three things: a wishbone, a backbone and a funny bone.",
+        "source":"Reba McEntire"
+        },
+        {"quote":"I have never been hurt by what I have not said.",
+        "source":"Calvin Coolidge"
+        },
+        {"quote":"People who think they know everything are a great annoyance to those of us who do.",
+        "source":"Isaac Asimov"
+        },
+        {"quote":"",
+        "source":""},
+        {"quote":"",
+        "source":""},
+        {"quote":"",
+        "source":""},
+        {"quote":"",
+        "source":""},
+        {"quote":"",
+        "source":""},
+        {"quote":"",
+        "source":""},
+        {"quote":"",
+        "source":""},
+        {"quote":"",
+        "source":""},
+    ]
+}
